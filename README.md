@@ -12,11 +12,11 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-- 👨🏽‍💻 Estou estudando Typescript e react native;
+- 👨🏽‍💻 Estou estudando ReactJs e React Native
 
-- 🌱 Meus hobbies são desenhar, treinar karte, desenhar, estudar astronomia, desenhar e andar de bicicleta;
+- 🌱 Meus hobbies são desenhar, treinar karte, desenhar, estudar astronomia, desenhar e andar de bicicleta
  
-- 💼 Gosto de fazer as coisas sempre com um sorriso no rosto, adoro desafios e sempre busco me aprofundar mais nas aréas em que atuo;
+- 💼 Gosto de fazer as coisas sempre com um sorriso no rosto, adoro desafios e sempre busco me aprofundar mais nas aréas em que atuo
 
 - 📫 Email de contato Breno564nascimento@gmail.com
 
