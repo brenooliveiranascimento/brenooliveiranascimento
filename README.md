@@ -14,7 +14,7 @@
   
 - 👨🏽‍💻 Estou estudando ReactJs e React Native
 
-- 🌱 Meus hobbies são desenhar, treinar karte, desenhar, estudar astronomia, desenhar e andar de bicicleta
+- 🌱 Meus hobbies são desenhar, treinar karte, estudar astronomia, e andar de bicicleta
  
 - 💼 Gosto de fazer as coisas sempre com um sorriso no rosto, adoro desafios e sempre busco me aprofundar mais nas aréas em que atuo
 
