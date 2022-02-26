@@ -19,6 +19,8 @@
 - 💼 Gosto de fazer as coisas sempre com um sorriso no rosto, adoro desafios e sempre busco me aprofundar mais nas aréas em que atuo
 
 - 📫 Email de contato Breno564nascimento@gmail.com
+  
+- 🔥 Veja também o meu <a href="https://resume.io/r/9vpVPJdwA">curriculo</a>
 
   
   ##
