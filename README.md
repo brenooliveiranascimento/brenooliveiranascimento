@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/94801880/155901199-87253c57-c690-4bf2-b419-1eb0d52718f9.png">
 </div>
   
-- 👨🏽‍💻 Estou estudando ReactJs e React Native
+- 👨🏽‍💻 Estou estudando ReactJs e React Native, NextJs e redux
 
 - 🌱 Meus hobbies são desenhar, treinar karte, estudar astronomia, e andar de bicicleta
  
