@@ -1,4 +1,4 @@
-## Sejam bem vindos seres humanos!! Me chamo Breno Nascimento e sou dev front end mobile e desenhista nas horas vagas [meu instagram](https://www.instagram.com/allblack_arts/)
+## Sejam bem vindos seres humanos!! Me chamo Breno Nascimento e sou dev front end mobile estudante da Trybe! e desenhista nas horas vagas [meu instagram](https://www.instagram.com/allblack_arts/)
 <div align="center">
   <a href="https://github.com/BrenoAllbalck">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenooliveiranascimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
