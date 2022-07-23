@@ -16,7 +16,7 @@
 </div>
   
   <h4 style="text-align:center">💻Estou estudando desenvolvimento web na Trybe</h4>
-  <h4>🌱 Meus hobbies são desenhar, treinar karte, estudar astronomia, e andar de bicicleta</h4>
+  <h4>🌱 Meus hobbies são desenhar, treinar karte, estudar astronomia e andar de bicicleta</h4>
   <h4>💼 Gosto de fazer as coisas sempre com um sorriso no rosto, adoro desafios e sempre busco me aprofundar mais nas aréas em que atuo</h4>
   <h4>📫 Email de contato Breno564nascimento@gmail.com</h4>
   <h4>🔥 <a target="_blank" href="https://breno-portifolio-2yccrfz7i-brenoallbalck.vercel.app/">Site portifolio</h4>
