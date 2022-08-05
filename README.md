@@ -13,6 +13,9 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/94801880/155901199-87253c57-c690-4bf2-b419-1eb0d52718f9.png">
+    <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://user-images.githubusercontent.com/94801880/183108072-f2297af4-46a7-4b53-a05a-b52e1ae5ba96.png">
+        <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://user-images.githubusercontent.com/94801880/183109684-98155887-5d7b-4b73-8f18-aa046926a8cf.png">
+                <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://user-images.githubusercontent.com/94801880/183109943-c0f601f4-2bc9-4351-85cb-b3f93b99a1b2.png">
 </div>
   
   <h4 style="text-align:center">💻Estou estudando desenvolvimento web na Trybe</h4>
