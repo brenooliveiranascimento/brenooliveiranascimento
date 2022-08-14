@@ -1,7 +1,7 @@
 ## Sejam bem vindos! Me chamo Breno Nascimento.
 ## Estudante de desenvolvimento web na Trybe! E desenhista nas horas vagas.
 <div align="center" style="display: inline_block">
-  <a href="https://github.com/BrenoAllbalck">
+  <a href="https://github.com/brenooliveiranascimento">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brenooliveiranascimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenooliveiranascimento&layout=compact&langs_count=4&theme=tokyonight"/>
 </div>
