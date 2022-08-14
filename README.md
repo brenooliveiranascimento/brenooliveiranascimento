@@ -17,6 +17,7 @@
         <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://user-images.githubusercontent.com/94801880/183109684-98155887-5d7b-4b73-8f18-aa046926a8cf.png">
         <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://user-images.githubusercontent.com/94801880/183109943-c0f601f4-2bc9-4351-85cb-b3f93b99a1b2.png">
         <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://user-images.githubusercontent.com/94801880/183110645-b9bd49a5-225c-448d-a277-de89492b044e.png">
+        <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://user-images.githubusercontent.com/94801880/184520413-97e19d46-4661-48d0-8405-56e58b90e610.png">
 </div>
   
   <h4 style="text-align:center">💻Estou estudando desenvolvimento web na Trybe</h4>
