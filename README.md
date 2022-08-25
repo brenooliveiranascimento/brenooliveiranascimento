@@ -24,7 +24,7 @@
   <h4>🌱 Meus hobbies são desenhar, treinar karte, estudar astronomia e andar de bicicleta</h4>
   <h4>💼 Gosto de fazer as coisas sempre com um sorriso no rosto! Adoro desafios e sempre busco me aprofundar mais nas aréas em que atuo</h4>
   <h4>📫 Email de contato Breno564nascimento@gmail.com</h4>
-  <h4>🔥 <a target="_blank" href="https://breno-portifolio-2yccrfz7i-brenoallbalck.vercel.app/">Site portifolio</h4>
+  <h4>🔥 <a target="_blank" href="https://breno-new-portfolio.vercel.app/">Site portifolio</h4>
   <h4>🔥 <a target="_blank" href="https://resume.io/r/9vpVPJdwA">Veja também o meu curriculo</a></h4>
   
 <!-- - 👨🏽‍💻 <h4>Estou estudando ReactJs e React Native, NextJs e redux</4>
