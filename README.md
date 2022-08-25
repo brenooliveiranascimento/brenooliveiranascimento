@@ -37,7 +37,7 @@
   
 - 🔥 Veja também o meu <a href="https://resume.io/r/9vpVPJdwA">curriculo</a>
   
-- 🔥 Site <a href="https://breno-portifolio-2yccrfz7i-brenoallbalck.vercel.app/">portifolio</a> -->
+- 🔥 Site <a target="_blank" href="https://breno-new-portfolio.vercel.app/">portifolio</a> -->
 
   
   ##
