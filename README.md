@@ -35,9 +35,7 @@
 
 - 📫 Email de contato Breno564nascimento@gmail.com
   
-- 🔥 Veja tambḿe meu curriculo <a href="https://resume.io/r/9vpVPJdwA">Curriculo</a>
-  
-- 🔥 Site <a href="https://breno-new-portfolio.vercel.app/">portifolio</a> -->
+-->
 
   
   ##
