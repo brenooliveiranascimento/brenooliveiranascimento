@@ -6,20 +6,21 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenooliveiranascimento&layout=compact&langs_count=4&theme=react&hide_border=false"/>
 </div>
 <div align="center" style="display: inline_block" ><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://user-images.githubusercontent.com/94801880/187437294-d5147130-9de3-4b37-b3ba-c1d20fe2e24f.png">
-   <img align="center" alt="Rafa-HTML" height="35" width="45" src="https://user-images.githubusercontent.com/94801880/187437779-e1240ccb-ed9a-403e-ac63-ea971b8626db.png">
-  <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://user-images.githubusercontent.com/94801880/184520413-97e19d46-4661-48d0-8405-56e58b90e610.png">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/94801880/155901199-87253c57-c690-4bf2-b419-1eb0d52718f9.png">
-    <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://user-images.githubusercontent.com/94801880/183108072-f2297af4-46a7-4b53-a05a-b52e1ae5ba96.png">
-        <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://user-images.githubusercontent.com/94801880/183109684-98155887-5d7b-4b73-8f18-aa046926a8cf.png">
-        <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://user-images.githubusercontent.com/94801880/183109943-c0f601f4-2bc9-4351-85cb-b3f93b99a1b2.png">
-        <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://user-images.githubusercontent.com/94801880/183110645-b9bd49a5-225c-448d-a277-de89492b044e.png">
+
+
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
         
 </div>
   
