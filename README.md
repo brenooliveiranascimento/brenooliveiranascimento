@@ -5,9 +5,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brenooliveiranascimento&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenooliveiranascimento&layout=compact&langs_count=4&theme=react&hide_border=false"/>
 </div>
+
+
 <div align="center" style="display: inline_block" ><br>
-
-
+<h2>Minhas tecnologias<h2>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -23,7 +24,6 @@
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> 
-        
 </div>
   
   <h4 style="text-align:center">💻Estou estudando desenvolvimento web na Trybe</h4>
