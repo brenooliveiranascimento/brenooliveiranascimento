@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> 
 </div>
-  
+
   <h4 style="text-align:center">💻Estou estudando desenvolvimento web na Trybe</h4>
   <h4>🌱 Meus hobbies são desenhar, treinar karte, estudar astronomia e andar de bicicleta</h4>
   <h4>💼 Gosto de fazer as coisas sempre com um sorriso no rosto! Adoro desafios e sempre busco me aprofundar mais nas aréas em que atuo</h4>
