@@ -8,7 +8,7 @@
 
 
 <div align="center" style="display: inline_block" ><br>
-<h2>Minhas tecnologias<h2>
+<h2>Minhas Stacks<h2>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
