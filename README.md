@@ -1,5 +1,6 @@
 # 💫 Sobre mim:
-💼 Olá! Me chamo Breno e sou desenvolvedor FullStack no Grupo Unicad <br/> 🔭 Formado em desenvolvimento web na Trybe<br>💬 Email de contato Breno564nascimento@gmail.com
+💼 Olá! Me chamo Breno e sou desenvolvedor FullStack no Grupo Unicad <br/> 🔭 Formado em desenvolvimento web na Trybe <br>📚 Cursando Engenharia de Software <br>💬 Email de contato Breno564nascimento@gmail.com 
+
 
 
 ## 🌐 Redes sociais:
