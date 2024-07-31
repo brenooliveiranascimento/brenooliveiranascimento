@@ -4,7 +4,7 @@
   </a>
 </div>
 
-## Um pouco sobre mim✨<img align="right" alt="" height="300px" src="programing.gif">
+## Um pouco sobre mim✨<img align="right" alt="" height="290px" src="programing.gif">
 
 💼 Olá! Me chamo Breno e sou desenvolvedor FullStack no Grupo Unicad <br>
 📚 Formado em desenvolvimento web na Trybe <br>
