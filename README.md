@@ -23,11 +23,6 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenooliveiranascimento&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-
-
----
-[![](https://visitcount.itsvg.in/api?id=brenooliveiranascimento&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brenooliveiranascimento/brenooliveiranascimento/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brenooliveiranascimento/brenooliveiranascimento/output/github-contribution-grid-snake-dark.svg">
@@ -35,3 +30,7 @@
 </picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+[![](https://visitcount.itsvg.in/api?id=brenooliveiranascimento&icon=0&color=0)](https://visitcount.itsvg.in)
+
