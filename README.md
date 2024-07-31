@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+Vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
 # 💫 Sobre mim:
 💼 Olá! Me chamo Breno e sou desenvolvedor FullStack no Grupo Unicad <br/> 🔭 Formado em desenvolvimento web na Trybe <br>📚 Cursando Engenharia de Software <br>💬 Email de contato Breno564nascimento@gmail.com 
 
@@ -11,9 +17,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=brenooliveiranascimento&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=brenooliveiranascimento&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brenooliveiranascimento&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=brenooliveiranascimento&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Camilla126">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenooliveiranascimento&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 
 
