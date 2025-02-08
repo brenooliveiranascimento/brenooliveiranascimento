@@ -7,7 +7,7 @@
 ## Um pouco sobre mim✨<img align="right" alt="" height="290px" src="programing.gif">
 
 💼 Olá! Me chamo Breno<br>
-🖥️ Atuo como desenvolvedor FullStack E desenvolvedor Mobile
+🖥️ Atuo como desenvolvedor FullStack E desenvolvedor Mobile<br>
 💬 Email de contato Breno564nascimento@gmail.com 
 
 ### Redes sociais📱
