@@ -28,8 +28,7 @@
 ## 🚀 Professor de desenvolvimento Mobile RocketSeat
 <img align="right" alt="" height="150px" src="https://private-user-images.githubusercontent.com/94801880/412525407-5f63f5a2-6079-4771-ad8f-c0786604f970.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkzNzg5NTcsIm5iZiI6MTczOTM3ODY1NywicGF0aCI6Ii85NDgwMTg4MC80MTI1MjU0MDctNWY2M2Y1YTItNjA3OS00NzcxLWFkOGYtYzA3ODY2MDRmOTcwLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEyVDE2NDQxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk1M2QxNTU3ZDg4Mzk4ZTBjOWM5OGVlNjhhNzEwNWM4YWRiOGI5MTE5YmZjZGE5NTQ2MDgxNmI0NDhkNzBlZDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.lwD--Lep6uh6LPgNrOM_vGSg4obA5VwMH_d4A1Jj63A">
 
-📚 Atuo como Instrutor de Desenvolvimento Mobile com foco em<br>
-React Native, criando aulas dinâmicas e atualizadas com as mais recentes tecnologias<br>
+📚 Atuo como Instrutor de Desenvolvimento Mobile com foco em React Native, criando aulas dinâmicas e atualizadas com as mais recentes tecnologias<br>
 e boas práticas do mercado.<br>
 Meu objetivo é capacitar desenvolvedores, proporcionando uma experiência<br>
 de aprendizado prática e alinhada às demandas do setor.<br>
