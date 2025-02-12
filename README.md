@@ -35,7 +35,7 @@ de aprendizado prática e alinhada às demandas do setor.<br>
 <br>
 <br>
 
-## 🦅 Desenvolvedor Full Stack Pleno - NodeJs/ TypeScript/ React 🦅
+## 🦅 Desenvolvedor Full Stack Pleno - NodeJs/ TypeScript/ React
 <img align="right" alt="" height="150px" src="https://private-user-images.githubusercontent.com/94801880/412531823-b2d0bd8e-44ea-4b08-8538-a44acc768895.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkzNzk5NjUsIm5iZiI6MTczOTM3OTY2NSwicGF0aCI6Ii85NDgwMTg4MC80MTI1MzE4MjMtYjJkMGJkOGUtNDRlYS00YjA4LTg1MzgtYTQ0YWNjNzY4ODk1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEyVDE3MDEwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA4YTUxYzZkZWZjOTdkYjBlYzA2MjMzNzI1ODk2OTQwNjAzZjEwZDQ0MTdlZjYwMTRlMDM3NDI5ZDU0ZDAzYWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3_-0IdtTJnhSuFoWDUuadpVqsfUqCsEenHo7TgExu_E">
 
 🖥️  • Otimização de Sistemas: Construí e otimizei vários sistemas, aprimorando consultas em bancos de dados com centenas de milhares de registros e reduzindo o tempo de resposta de APIs melhorando a experiência do usuário e diminuindo custos operacionais.<br>
