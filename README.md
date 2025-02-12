@@ -5,7 +5,7 @@
 </div>
 
 ## Um pouco sobre mim✨
-<img align="right" alt="" height="200px" src="programing.gif">
+<img align="right" alt="" height="250px" src="programing.gif">
 
 💼 Olá! Me chamo Breno<br>
 📚 Professor de desenvolvimento Mobile na Rocketseat<br>
@@ -16,7 +16,7 @@
 ### Redes sociais📱
 
 <div>
-<a href="https://www.linkedin.com/in/breno-nascimento-oliveira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Youtube-%23FF0033?style=for-the-badge&logo=Youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/@BlackAcademy-564" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Youtube-%23FF0033?style=for-the-badge&logo=Youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/breno-nascimento-oliveira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/allblack_arts/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
@@ -24,7 +24,7 @@
 <br>
 
 ## 🚀 Professor de desenvolvimento Mobile RocketSeat
-<img align="right" alt="" height="200px" src="https://private-user-images.githubusercontent.com/94801880/412525407-5f63f5a2-6079-4771-ad8f-c0786604f970.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkzNzg5NTcsIm5iZiI6MTczOTM3ODY1NywicGF0aCI6Ii85NDgwMTg4MC80MTI1MjU0MDctNWY2M2Y1YTItNjA3OS00NzcxLWFkOGYtYzA3ODY2MDRmOTcwLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEyVDE2NDQxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk1M2QxNTU3ZDg4Mzk4ZTBjOWM5OGVlNjhhNzEwNWM4YWRiOGI5MTE5YmZjZGE5NTQ2MDgxNmI0NDhkNzBlZDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.lwD--Lep6uh6LPgNrOM_vGSg4obA5VwMH_d4A1Jj63A">
+<img align="right" alt="" height="150px" src="https://private-user-images.githubusercontent.com/94801880/412525407-5f63f5a2-6079-4771-ad8f-c0786604f970.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkzNzg5NTcsIm5iZiI6MTczOTM3ODY1NywicGF0aCI6Ii85NDgwMTg4MC80MTI1MjU0MDctNWY2M2Y1YTItNjA3OS00NzcxLWFkOGYtYzA3ODY2MDRmOTcwLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEyVDE2NDQxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk1M2QxNTU3ZDg4Mzk4ZTBjOWM5OGVlNjhhNzEwNWM4YWRiOGI5MTE5YmZjZGE5NTQ2MDgxNmI0NDhkNzBlZDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.lwD--Lep6uh6LPgNrOM_vGSg4obA5VwMH_d4A1Jj63A">
 
 📚 Atuo como Instrutor de Desenvolvimento Mobile com foco em<br>
 React Native, criando aulas dinâmicas e atualizadas com as mais recentes tecnologias<br>
@@ -45,12 +45,12 @@ de aprendizado prática e alinhada às demandas do setor.<br>
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <br>
 
-## 🎥 Criador de conteúdo - instrutor de desenvolvimento Web
+## 🎥 Criador de conteúdo - instrutor de desenvolvimento Web <a href="https://www.youtube.com/@BlackAcademy-564" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Youtube-%23FF0033?style=for-the-badge&logo=Youtube&logoColor=white" target="_blank"></a>
 <img align="right" alt="" height="150px" src="https://private-user-images.githubusercontent.com/94801880/412535798-77232a2e-c5e2-411e-9a15-1938f63b03a2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkzODA2MTksIm5iZiI6MTczOTM4MDMxOSwicGF0aCI6Ii85NDgwMTg4MC80MTI1MzU3OTgtNzcyMzJhMmUtYzVlMi00MTFlLTlhMTUtMTkzOGY2M2IwM2EyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEyVDE3MTE1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjOTVlNmM3MjFlMTJmMWQ2ODE1NWQ0NjQyZTQ4OWQwYWFlNDc3YzE3OWRjYjRmMDI3MThjMzQ1MWE1MzBlZjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.I4WBEWiV9qGrrKvW-Nx9H3tL1EI2H3bLZ_G9IctLdkg">
 
 🖥️  Produtor de conteúdo especializado em desenvolvimento Web e Mobile.<br>
 Crio videoaulas didáticas, compartilhando minha experiência prática para ajudar <bt>
-desenvolvedores a aprimorarem suas habilidades e acompanharem as melhores práticas do mercado. <br>
+desenvolvedores a aprimorarem suas habilidades e acompanharem as melhores práticas do mercado.  <br>
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <br>
