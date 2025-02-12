@@ -7,14 +7,16 @@
 ## Um pouco sobre mim✨<img align="right" alt="" height="290px" src="programing.gif">
 
 💼 Olá! Me chamo Breno<br>
-🖥️ Atuo como desenvolvedor FullStack E desenvolvedor Mobile<br>
+📚 Professor de desenvolvimento Mobile na Rocketseat<br>
+🖥️ Atuo como desenvolvedor FullStack  Web/Mobile<br>
 💬 Email de contato Breno564nascimento@gmail.com 
 
 ### Redes sociais📱
 
 <div>
+<a href="https://www.linkedin.com/in/breno-nascimento-oliveira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Youtube-%23FF0033?style=for-the-badge&logo=Youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/breno-nascimento-oliveira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/allblack_arts/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/breno-nascimento-oliveira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 # 💻 Minhas stacks:
