@@ -35,6 +35,14 @@ de aprendizado prática e alinhada às demandas do setor.<br>
 <br>
 <br>
 
+## 🚀 Desenvolvedor Moble MBLabs
+<img align="right" alt="" height="150px" src="https://private-user-images.githubusercontent.com/94801880/412525407-5f63f5a2-6079-4771-ad8f-c0786604f970.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI1NjYzNjEsIm5iZiI6MTc0MjU2NjA2MSwicGF0aCI6Ii85NDgwMTg4MC80MTI1MjU0MDctNWY2M2Y1YTItNjA3OS00NzcxLWFkOGYtYzA3ODY2MDRmOTcwLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIxVDE0MDc0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyZGY4OTlkZDU5ZGI0MTRlNjk2YTI1Nzk1NDRiMDI0MTlhMzFlN2YxMjIzZDRmNGI2MzE1ZTU1OGRiMTFkYjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IgZU0gkdF95ep9uCgATSkznvpgUZVUtwfMYx3KJnIjc">
+
+📚 Sou desenvolvedor mobile Pleno 2 na MB Labs, trabalho em uma aplicação finançeira Whitelabel de InternetBanking chamda Bankeiro.<br><br>
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/zustand-%23593d88.svg?style=for-the-badge&logo=zustand&logoColor=white)
+<br>
+<br>
+
 ## 🦅 Desenvolvedor Full Stack Pleno - NodeJs/ TypeScript/ React
 <img align="right" alt="" height="150px" src="https://private-user-images.githubusercontent.com/94801880/413054633-3ca11a6a-0d39-4582-abf4-d0d715c93221.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI1NjY1MzAsIm5iZiI6MTc0MjU2NjIzMCwicGF0aCI6Ii85NDgwMTg4MC80MTMwNTQ2MzMtM2NhMTFhNmEtMGQzOS00NTgyLWFiZjQtZDBkNzE1YzkzMjIxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIxVDE0MTAzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg2MGU2ZDAwZGQ2OTNiZjc0MGQxMDE1NWU0OTM1MGNjNjQ1NWI3ODlkODFlM2EyNzI4OGI0MmYyYzdkNjA2NmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.s-2yCYp2vp3OlBu-dO6X4LOjJb98fajbs1e5cLKURf4">
 
