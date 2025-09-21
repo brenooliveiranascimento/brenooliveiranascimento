@@ -67,7 +67,7 @@ desenvolvedores a aprimorarem suas habilidades e acompanharem as melhores práti
 
 <div>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=brenooliveiranascimento&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <a href="https://github.com/Camilla126">
+  <a href="https://github.com/brenooliveiranascimento">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenooliveiranascimento&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
