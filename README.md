@@ -9,7 +9,7 @@
 
 💼 Olá! Me chamo Breno<br>
 📚 Professor de desenvolvimento Mobile na Rocketseat<br>
-🖥️ Atuo como desenvolvedor FullStack  Web/Mobile<br>
+🖥️ Atuo como desenvolvedor FullStack  Web/Mobile Sênior<br>
 🎥 Criador de conteúdo na BlackCode Academy<br>
 💬 Email de contato Breno564nascimento@gmail.com 
 
