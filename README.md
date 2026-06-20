@@ -25,6 +25,23 @@
 
 # Minhas Experiêcias✨
 
+## 🚀 Desenvolvedor FullStack - Mobile Sênior - Belago
+<img align="right" alt="" height="150px" src="https://private-user-images.githubusercontent.com/94801880/412525407-5f63f5a2-6079-4771-ad8f-c0786604f970.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI1NjYzNjEsIm5iZiI6MTc0MjU2NjA2MSwicGF0aCI6Ii85NDgwMTg4MC80MTI1MjU0MDctNWY2M2Y1YTItNjA3OS00NzcxLWFkOGYtYzA3ODY2MDRmOTcwLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIxVDE0MDc0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyZGY4OTlkZDU5ZGI0MTRlNjk2YTI1Nzk1NDRiMDI0MTlhMzFlN2YxMjIzZDRmNGI2MzE1ZTU1OGRiMTFkYjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IgZU0gkdF95ep9uCgATSkznvpgUZVUtwfMYx3KJnIjc">
+
+Sou um dos principais responsáveis pelo desenvolvimento e manutenção de aplicações Mobile do segmento Bancário da empresa.<br>
+• Defino arquitetura e padrões de desenvolvimento dos aplicativos, garantindo escalabilidade e
+consistência entre projetos<br>
+•  Atuo como ponto focal técnico com clientes corporativos, traduzindo demandas de negócio em
+requisitos para o time<br>
+• Gerencio o ciclo completo de publicação nas lojas (App Store e Google Play), incluindo EAS Update
+para entregas contínuas<br>
+• Desenvolvo e reviso rotas no backend Node.js, garantindo contratos consistentes entre front e back<br><br>
+• Auxilio também o time como Full Stack em projetos Laravel em módulos estratégicos<br><br>
+• Produzo documentação técnica de arquitetura e onboarding<br><br>
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/zustand-%23593d88.svg?style=for-the-badge&logo=zustand&logoColor=white)
+<br>
+<br>
+
 ## 🚀 Desenvolvedor Moble Sênior - Simpay Bank
 <img align="right" alt="" height="150px" src="https://private-user-images.githubusercontent.com/94801880/412525407-5f63f5a2-6079-4771-ad8f-c0786604f970.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI1NjYzNjEsIm5iZiI6MTc0MjU2NjA2MSwicGF0aCI6Ii85NDgwMTg4MC80MTI1MjU0MDctNWY2M2Y1YTItNjA3OS00NzcxLWFkOGYtYzA3ODY2MDRmOTcwLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIxVDE0MDc0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyZGY4OTlkZDU5ZGI0MTRlNjk2YTI1Nzk1NDRiMDI0MTlhMzFlN2YxMjIzZDRmNGI2MzE1ZTU1OGRiMTFkYjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IgZU0gkdF95ep9uCgATSkznvpgUZVUtwfMYx3KJnIjc">
 
