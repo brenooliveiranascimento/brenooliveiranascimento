@@ -25,7 +25,7 @@
 
 # Minhas Experiêcias✨
 
-## 🚀 Desenvolvedor FullStack - Mobile Sênior - Belago
+## 🚀 Desenvolvedor FullStack Mobile Sênior - Belago
 <img align="right" alt="" height="150px" src="https://private-user-images.githubusercontent.com/94801880/412525407-5f63f5a2-6079-4771-ad8f-c0786604f970.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI1NjYzNjEsIm5iZiI6MTc0MjU2NjA2MSwicGF0aCI6Ii85NDgwMTg4MC80MTI1MjU0MDctNWY2M2Y1YTItNjA3OS00NzcxLWFkOGYtYzA3ODY2MDRmOTcwLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIxVDE0MDc0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyZGY4OTlkZDU5ZGI0MTRlNjk2YTI1Nzk1NDRiMDI0MTlhMzFlN2YxMjIzZDRmNGI2MzE1ZTU1OGRiMTFkYjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IgZU0gkdF95ep9uCgATSkznvpgUZVUtwfMYx3KJnIjc">
 
 Sou um dos principais responsáveis pelo desenvolvimento e manutenção de aplicações Mobile do segmento Bancário da empresa.<br>
